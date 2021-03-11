@@ -1,7 +1,11 @@
 import streamlit as st
 
+import array
 import numpy as np
 import pandas as pd
+from wordcloud import WordCloud, STOPWORDS
+import matplotlib.pyplot as plt
+
 
 st.title('A app about yield data' )
 
@@ -13,7 +17,7 @@ st.sidebar.title('Selectors')
 '''
 st.write('Some data')
 
-DATA_URL = ('../../../SimFarm2030/All_Cultivars_Spreadsheets/all_cultivars.csv')
+DATA_URL = ('../All_Cultivars_Spreadsheets/all_cultivars.csv')
 
 
 @st.cache(persist=True)
@@ -40,6 +44,19 @@ def make_cultivar_dt():
 st.line_chart(make_cultivar_dt())
 
 if st.checkbox('Show Map'):
-    st.map(data[['lat','lon']])
+    st.map(data[['Yield', 'lat', 'lon']])
     year = st.slider('Year', 2012, 2017)
+
+# text = [elem.encode('hex') for cult in data.Cultivar]
+ # text = array.array(data.Cultivar)
+text = data['Cultivar']
+
+wordcloud = WordCloud().generate(text)
+
+plt.imshow(wordcloud)
+plt.axis('off')
+plt.show()
+st.pyplot()
+ #.ddtype
+#as stg
 
