@@ -24,6 +24,7 @@ setuptools.setup(
         'pystan',
         'seaborn',
         'tqdm',
+        'requests',
     ],
     extras_require={
         'tests': [

@@ -1,0 +1,1028 @@
+{
+  "total": 63,
+  "fields": [
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -3.7556,
+        50.2697
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -3.7775,
+        50.2839
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/pxLL4q5txT6N0j_OynacEw",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "CLAY_LOAM",
+                  "clayPercentage": 29.77,
+                  "sandPercentage": 25.67,
+                  "siltPercentage": 44.57
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": null
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "GRASS"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        -2.2317,
+        50.8007
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/fy8p7AO697281G1SRDiMxg",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "CLAY_LOAM",
+                  "clayPercentage": 27.73,
+                  "sandPercentage": 22.5,
+                  "siltPercentage": 49.77
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.23166603
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "GRASS"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        -2.0897,
+        50.8575
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -1.9552,
+        50.9071
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.9316,
+        51.0452
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        1.0819,
+        51.0717
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -1.4321,
+        51.0884
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.9379,
+        51.1819
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -1.7797,
+        51.5558
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -2.0325,
+        51.7058
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.3865,
+        51.8533
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.3578,
+        51.8729
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.5324,
+        51.9485
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -1.9244,
+        51.982
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.8525,
+        52.1854
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.9977,
+        52.1889
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        1.3421,
+        52.2221
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.0814,
+        52.241
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.6353,
+        52.2421
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.7105,
+        52.2429
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.3821,
+        52.2504
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/lZtyW0Rn4DLuQWlgQlrVtA",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "CLAY_LOAM",
+                  "clayPercentage": 32.63,
+                  "sandPercentage": 28.87,
+                  "siltPercentage": 38.5
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": null
+              }
+            },
+            "sownCrop": []
+          }
+        ]
+      },
+      "coords": [
+        0.1185,
+        52.2513
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        0.191,
+        52.2656
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -1.6477,
+        52.3342
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/1FX_SIY0jw5Ez1YC5xADFg",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "SANDY_CLAY_LOAM",
+                  "clayPercentage": 28.03,
+                  "sandPercentage": 52.5,
+                  "siltPercentage": 19.43
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 8.2100844
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "WHEAT"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "FIELD_BEAN"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        0.984,
+        52.4453
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        1.0155,
+        52.5181
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/kX87T9rEM3TWdbL3oBIKeg",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "SANDY_CLAY_LOAM",
+                  "clayPercentage": 20.3,
+                  "sandPercentage": 55.4,
+                  "siltPercentage": 24.3
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.66130023
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "WHEAT"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "BEET"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "BARLEY"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        1.0396,
+        52.5547
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -2.4453,
+        52.6784
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -2.5191,
+        52.73
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.9713,
+        52.7525
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.1537,
+        52.7901
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/bfQzESAzp1WHQnT6qpuWoA",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "CLAY_LOAM",
+                  "clayPercentage": 30.23,
+                  "sandPercentage": 31.8,
+                  "siltPercentage": 37.97
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 6.06825189
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "GRASS"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        0.456,
+        52.8279
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/jktV-z4vSS8fw2u6QeS2NQ",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "CLAY_LOAM",
+                  "clayPercentage": 36.2,
+                  "sandPercentage": 25.5,
+                  "siltPercentage": 38.3
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.28729795
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "BARLEY"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "OILSEED"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "WHEAT"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        -0.6046,
+        53.0216
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.4677,
+        53.036
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.1713,
+        53.2523
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/XhhZNF_1FFrlAb9Iua44kw",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "LOAM",
+                  "clayPercentage": 25.53,
+                  "sandPercentage": 40.23,
+                  "siltPercentage": 34.27
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.66130023
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "GRASS"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        -0.1494,
+        53.2535
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.7963,
+        53.2556
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -2.48,
+        53.3817
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -3.0258,
+        53.5239
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.3306,
+        53.618
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.3274,
+        53.7676
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -6.076,
+        53.79448
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -1.32557,
+        53.8689
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/txAT2Ti39WvPdagc44hKqQ",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "LOAM",
+                  "clayPercentage": 22.87,
+                  "sandPercentage": 42.33,
+                  "siltPercentage": 34.8
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.69559072
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "GRASS"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        -1.3504,
+        53.8785
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/rp0WcAzjtPs_o6QWEh6H-A",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "CLAY_LOAM",
+                  "clayPercentage": 28.83,
+                  "sandPercentage": 38.13,
+                  "siltPercentage": 33.03
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 6.68288186
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "GRASS"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "WHEAT"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "WHEAT"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        -0.8172,
+        54.0264
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.8814,
+        54.0746
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.3231,
+        54.0895
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.6573,
+        54.0928
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -0.6435,
+        54.1075
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -5.7157,
+        54.3288
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -3.0716,
+        54.3432
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -1.6293,
+        54.6054
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -6.9337,
+        55.0455
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -3.349,
+        55.1222
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/upTPLIRyDTXNQGL-yNRWxw",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "SANDY_CLAY_LOAM",
+                  "clayPercentage": 25.63,
+                  "sandPercentage": 47.17,
+                  "siltPercentage": 27.2
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.28729795
+                  }
+                }
+              }
+            },
+            "sownCrop": [
+              {
+                "harvestYear": 2016,
+                "cropType": "WHEAT"
+              },
+              {
+                "harvestYear": 2017,
+                "cropType": "WHEAT"
+              },
+              {
+                "harvestYear": 2018,
+                "cropType": "PEA"
+              }
+            ]
+          }
+        ]
+      },
+      "coords": [
+        -2.0135,
+        55.6729
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/P25nYiBxmMPiSbUdtdxKNQ",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "SANDY_LOAM",
+                  "clayPercentage": 19.53,
+                  "sandPercentage": 57.9,
+                  "siltPercentage": 22.57
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.28729795
+                  }
+                }
+              }
+            },
+            "sownCrop": []
+          }
+        ]
+      },
+      "coords": [
+        -2.217,
+        55.7484
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/rcQ3ZmvMqX-LpkVVOJVETQ",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "SANDY_LOAM",
+                  "clayPercentage": 14.83,
+                  "sandPercentage": 64.6,
+                  "siltPercentage": 20.57
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": null
+              }
+            },
+            "sownCrop": []
+          }
+        ]
+      },
+      "coords": [
+        -2.8648,
+        55.8551
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/pMR1EWnr90tLuTdzZvPPtQ",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "SANDY_LOAM",
+                  "clayPercentage": 14.13,
+                  "sandPercentage": 65.73,
+                  "siltPercentage": 20.17
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 7.04667025
+                  }
+                }
+              }
+            },
+            "sownCrop": []
+          }
+        ]
+      },
+      "coords": [
+        -3.3657,
+        56.3653
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -3.4308,
+        56.395
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -2.4725,
+        56.8313
+      ]
+    },
+    {
+      "data": {
+        "fields": [
+          {
+            "id": "https://data.agrimetrics.co.uk/fields/h6HlaaGZO-xC2gYUkmEzHg",
+            "soil": {
+              "subSoil": {
+                "texture": {
+                  "type": "SANDY_LOAM",
+                  "clayPercentage": 15.27,
+                  "sandPercentage": 66.47,
+                  "siltPercentage": 18.23
+                }
+              },
+              "topSoil": {
+                "chemicalProperties": {
+                  "pH": {
+                    "unit": "http://data.agrimetrics.co.uk/units/ph",
+                    "value": 6.30887959
+                  }
+                }
+              }
+            },
+            "sownCrop": []
+          }
+        ]
+      },
+      "coords": [
+        -2.0912,
+        57.232
+      ]
+    },
+    {
+      "data": {
+        "fields": []
+      },
+      "coords": [
+        -3.3185,
+        57.6495
+      ]
+    }
+  ]
+}
